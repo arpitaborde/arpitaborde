@@ -1,12 +1,25 @@
-- 👋 Hi, I’m @arpitaborde
-- 👀 I’m interested in ...
-- 🌱 I’m currently learning ...
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
+# 👋 Hi, I’m Arpita Borde
 
-<!---
-arpitaborde/arpitaborde is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+🎓 I’m a Computer Engineering student with a growing interest in data analytics, problem-solving, and creative tech projects.
+
+👀 **Interests:**
+Data Analysis, UI/UX Design, Dashboard Creation, and exploring real-world datasets
+
+🌱 **Currently Learning:**
+SQL, Python for Data Analysis, and building interactive dashboards (Excel & Streamlit)
+
+💞️ **Looking to Collaborate On:**
+Beginner-friendly data projects, analytics dashboards, and creative tech ideas
+
+📫 **How to Reach Me:**
+You can connect with me on GitHub or via LinkedIn (add your link here)
+
+😄 **Pronouns:**
+She/Her
+
+⚡ **Fun Fact:**
+I enjoy turning raw data into visually appealing and meaningful insights ✨
+
+---
+
+⭐ *This is a special repository because its README appears on my GitHub profile!*
