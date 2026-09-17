@@ -17,7 +17,3 @@ You can connect with me on GitHub or via LinkedIn (add your link here)
 
 ⚡ **Fun Fact:**
 I enjoy turning raw data into visually appealing and meaningful insights ✨
-
----
-
-⭐ *This is a special repository because its README appears on my GitHub profile!*
