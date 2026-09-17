@@ -1,4 +1,4 @@
-# 👋 Hi, I’m Arpita Borde
+# 👋 Hi, I’m Arpita Borade
 
 🎓 I’m a Computer Engineering student with a growing interest in data analytics, problem-solving, and creative tech projects.
 
