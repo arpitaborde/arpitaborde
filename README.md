@@ -14,8 +14,6 @@ Beginner-friendly data projects, analytics dashboards, and creative tech ideas
 📫 **How to Reach Me:**
 You can connect with me on GitHub or via LinkedIn (add your link here)
 
-😄 **Pronouns:**
-She/Her
 
 ⚡ **Fun Fact:**
 I enjoy turning raw data into visually appealing and meaningful insights ✨
